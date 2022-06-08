@@ -1,0 +1,6 @@
+module Pods_swiperdelete {
+  umbrella header "Pods-swiperdelete-umbrella.h"
+
+  export *
+  module * { export * }
+}
